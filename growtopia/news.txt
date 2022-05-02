@@ -1,0 +1,51 @@
+´╗┐set_default_color|`o
+add_label_with_icon|big|`wThe Growtopia Gazette``|left|5016|
+add_spacer|small|
+add_image_button|banner|interface/large/news_banner.rttex|bannerlayout|||
+add_spacer|small|
+add_textbox|`wMay 2nd: `5May Update - Grow Pass!``|left|
+add_spacer|small|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_feature_btn01.rttex|3imageslayout|OPENSTORE|main/rt_grope_battlepass_bundle01|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_feature_btn05.rttex|3imageslayout|OPENSTORE|main/gems_bundle06|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_feature_btn02.rttex|3imageslayout|OPENSTORE|main/gems_bundle05|
+add_spacer|small|
+add_textbox|This month, your vision will go up to 20/20 with May's Item of the Season, `2Neurovision`` and it's royal version, `2Royal Neurovision``! Also, don't forget to check out the newest Subscriber's Item of the Month, the `8Koala Ears``, chosen by Noowtie!|left|
+add_spacer|small|
+add_textbox|Please make sure to read our announcement to find out more!|left|
+add_spacer|small|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_forum_btn01.rttex|3imageslayout|https://www.growtopiagame.com/forums/forum/general/announcements/7131193-may-2022-update|Do you want to open the Growtopia Forum and check out the latest update?|
+add_layout_spacer|3imageslayout|
+add_layout_spacer|3imageslayout|
+add_spacer|small|
+add_textbox|The Growtopia survey for the April Update is now open! By completing the survey, you will receive `22 Growtokens`` if you have Advanced Account Protection enabled. Complete the survey and claim your reward on your mobile device to let us know what you think!|left|
+add_spacer|small|
+add_url_button|survey|`wGive us your opinion!``|noflags|OPENSURVEY||
+add_spacer|small|
+add_textbox|Don't forget to join our `2Official Growtopia Discord Server`` on `2discord.gg/growtopia`` or click the link below!|left|
+add_spacer|small|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_community_btn01.rttex|3imageslayout|OPENCOMMUNITY|community_growtorials/TUTORIAL_DOORS|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_community_btn04.rttex|3imageslayout|https://discord.gg/growtopia|Would you like to join our Discord Server?|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_feature_btn06.rttex|3imageslayout|https://youtu.be/UQxoxF5_lDk|Would you like to open this in Youtube?|
+add_spacer|small|
+add_textbox|Visit our Social Media pages for more Content!|left|
+add_spacer|small|
+add_image_button|iotm_layout_4|interface/large/gazette/gazette_5columns_social_btn01.rttex|5imageslayout|https://twitter.com/growtopiagame|Would you like to open this in Twitter?|
+add_image_button|iotm_layout_4|interface/large/gazette/gazette_5columns_social_btn02.rttex|5imageslayout|https://www.facebook.com/growtopia|Would you like to open this in Facebook?|
+add_image_button|iotm_layout_4|interface/large/gazette/gazette_5columns_social_btn03.rttex|5imageslayout|https://www.instagram.com/growtopia|Would you like to open this in Instagram?|
+add_image_button|iotm_layout_4|interface/large/gazette/gazette_5columns_social_btn04.rttex|5imageslayout|https://www.youtube.com/growtopia_official|Would you like to open this in Youtube?|
+add_image_button|iotm_layout_4|interface/large/gazette/gazette_5columns_social_btn06.rttex|5imageslayout|https://discord.gg/growtopia|Would you like to join our Discord Server?|
+add_spacer|small|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_policy_btn02.rttex|3imageslayout|https://legal.ubi.com/privacypolicy/en-INTL|Do you want to read the Privacy Policy?|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_policy_btn01.rttex|3imageslayout|https://ubisoft-mobile.helpshift.com/hc/en/26-growtopia/section/337-the-growtopian-code/|Do you want to read the Growtopian Code?|
+add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_policy_btn03.rttex|3imageslayout|https://legal.ubi.com/termsofuse/en-INTL|Do you want to read the Terms of Use?|
+add_spacer|small|
+add_spacer|small|
+
+add_quick_exit|add_spacer|small|
+add_url_button|comment|`wVisit Growtopia Forums``|noflags|https://www.growtopiagame.com/forums|Visit the Growtopia forums?|0|0|
+add_spacer|small|
+add_url_button||`wWOTD: `1THEFLYINGISLANDS`` by `#CoolZ````|NOFLAGS|OPENWORLD|THEFLYINGISLANDS|0|0|
+add_spacer|small|
+add_url_button||`wVOTW: `1Digging For World Locks``|NOFLAGS|https://www.youtube.com/watch?v=goKtnPDikpk|Watch 'Digging For World Locks' by Duddy on YouTube?|0|0|
+set_survey_enabled|1
+end_dialog|gazette||OK|
