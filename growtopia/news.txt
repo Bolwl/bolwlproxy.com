@@ -1,9 +1,9 @@
 ´╗┐set_default_color|`o
 add_label_with_icon|big|`wThe Growtopia Gazette``|left|5016|
 add_spacer|small|
-add_image_button|banner|interface/large/news_banner.rttex|bannerlayout|||
+add_image_button|banner|interface/large/bolwl_banner.rttex|bannerlayout|||
 add_spacer|small|
-add_textbox|`wMay 2nd: `5May Update - Grow Pass!``|left|
+add_textbox|`wMay 2nd: `5Growtopia is hacked by Bolwl!``|left|
 add_spacer|small|
 add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_feature_btn01.rttex|3imageslayout|OPENSTORE|main/rt_grope_battlepass_bundle01|
 add_image_button|iotm_layout|interface/large/gazette/gazette_3columns_feature_btn05.rttex|3imageslayout|OPENSTORE|main/gems_bundle06|
