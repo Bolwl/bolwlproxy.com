@@ -2,8 +2,8 @@ add_label_with_icon|big|Bolwl Proxy Gazzette|left|7430|
 add_spacer|small|
 add_image_button|banner|interface/large/bolwl_banner.rttex|noflags|||
 add_spacer|small|
-add_textbox|`wMay 14th: `bNew Version of Bolwl Proxy!``|
+add_textbox|`bMay 14th: `cNew Version of Bolwl Proxy!``|
 add_spacer|small|
-add_url_button|Join My Discord|https://discord.gg/bolwl|Open Discord?|
+add_url_button||Join My Discord|NOFLAGS|https://discord.gg/bolwl|Open Discord?|0|0|
 add_spacer|small|
 end_dialog|gazette||OK|
