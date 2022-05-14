@@ -6,4 +6,111 @@ add_textbox|`bMay 14th: `cNew Version of Bolwl Proxy!``|
 add_spacer|small|
 add_url_button||Join My Discord|NOFLAGS|https://discord.gg/bolwl|Open Discord?|0|0|
 add_spacer|small|
+add_textbox|`cCommand List``|
+add_spacer|small|
+add_label_with_icon|small|`c/proxy `b(shows commands)|left|482|
+add_label_with_icon|small|`c/find [item name] `b(Shows itemid)|left|482|
+add_label_with_icon|small|`c/itemname [item id] `b(Shows item name)|left|482|
+add_label_with_icon|small|`c/warp [world] `b(warps to the world)|left|482|
+add_label_with_icon|small|`c/rw `b(warps to a random world)|left|482|
+add_label_with_icon|small|`c/tp [name] `b(teleports to a player in the world) |left|482|
+add_label_with_icon|small|`c/ghost `b(toggles ghost, you wont move for others when its enabled)|left|482|
+add_label_with_icon|small|`c/uid [name] `b(resolves name to uid)|left|482|
+add_label_with_icon|small|`c/world `b(Shows world commands)|left|482|
+add_label_with_icon|small|`c/pullall `b(Pull everyone)|left|482|
+add_label_with_icon|small|`c/kickall `b(Kick everyone)|left|482|
+add_label_with_icon|small|`c/banall `b(Ban everyone)|left|482|
+add_label_with_icon|small|`c/tradeall `b(Trade everyone)|left|482|
+add_label_with_icon|small|`c/msgall [text] `b(Message everyone)|left|482|
+add_label_with_icon|small|`c/nuke `b(Ban everyone)|left|482|
+add_label_with_icon|small|`c/clearw `b(Ban everyone and remove acc)|left|482|
+add_label_with_icon|small|`c/autoleave `b(Auto Leave When Mod)|left|482|
+add_label_with_icon|small|`c/autostartopia `b(Beta)|left|482|
+add_label_with_icon|small|`c/autosurg `b(Beta)|left|482|
+add_label_with_icon|small|`c/autoban `b(Auto bans the account)|left|482|
+add_label_with_icon|small|`c/autog4gclaim `b(Auto G4G Claim)|left|482|
+add_label_with_icon|small|`c/autofish `b(Auto Fish)|left|482|
+add_label_with_icon|small|`c/bait [itemid] `b(Set bait for autofish)|left|482|
+add_label_with_icon|small|`c/dice `b(Dice Speed)|left|482|
+add_label_with_icon|small|`c/bruteforce `b(Brute Force PassDoor)|left|482|
+add_label_with_icon|small|`c/maxpass [number] `b(Set max number for bruteforce)|left|482|
+add_label_with_icon|small|`c/fastvend `b(Fast Vend)|left|482|
+add_label_with_icon|small|`c/buyamount [amount] `b(Set amount for fast vend)|left|482|
+add_label_with_icon|small|`c/sewhack `b(Patched)|left|482|
+add_label_with_icon|small|`c/sew [itemid] `b(Patched)|left|482|
+add_label_with_icon|small|`c/scc [color code] `b(Sets default chat color)|left|482|
+add_label_with_icon|small|`c/newitems `b(Shows last items added to the game)|left|482|
+add_label_with_icon|small|`c/res `b(Respawn)|left|482|
+add_label_with_icon|small|`c/server `b(Show/Edit server data)|left|482|
+add_label_with_icon|small|`c/name [name] `b(Change name visually)|left|482|
+add_label_with_icon|small|`c/flag [itemid] `b(Change guild visually)|left|482|
+add_label_with_icon|small|`c/rank [rank(0,1,2,3)] `b(Change guild rank visually)|left|482|
+add_label_with_icon|small|`c/enter [doorid] `b(Enter door)|left|482|
+add_label_with_icon|small|`c/setsave [world] `b(Set Save World)|left|482|
+add_label_with_icon|small|`c/save `b(Warp to Save World)|left|482|
+add_label_with_icon|small|`c/debug `b(Bolwl Only)|left|482|
+add_label_with_icon|small|`c/fd `b(Fast Drop)|left|482|
+add_label_with_icon|small|`c/ft `b(Fast Trash)|left|482|
+add_label_with_icon|small|`c/fe `b(Fast Empty)|left|482|
+add_label_with_icon|small|`c/fcw `b(Fast Change World)|left|482|
+add_label_with_icon|small|`c/fw `b(Enable Fast Wrench)|left|482|
+add_label_with_icon|small|`c/wm `b(Choose Wrench Mode)|left|482|
+add_label_with_icon|small|`c/cw [id] `b(Visual Weather)|left|482|
+add_label_with_icon|small|`c/gem [amount] `b(Visual Gem)|left|482|
+add_label_with_icon|small|`c/relog `b(Fast Relog)|left|482|
+add_label_with_icon|small|`c/wl [amount] `b(Drop x wls)|left|482|
+add_label_with_icon|small|`c/buywl `b(Buy wl with all gems)|left|482|
+add_label_with_icon|small|`c/buy [storeid] [count] `b(Buy item from store)|left|482|
+add_label_with_icon|small|`c/inv `b(Shows inventory - Need Relog)|left|482|
+add_label_with_icon|small|`c/setx [xpos] `b(Bolwl Only)|left|482|
+add_label_with_icon|small|`c/sety [ypos] `b(Bolwl Only)|left|482|
+add_label_with_icon|small|`c/action [a] `b(Bolwl Only)|left|482|
+add_label_with_icon|small|`c/tax [amount] `b(Set tax)|left|482|
+add_label_with_icon|small|`c/bet [bet1] [bet2] `b(Auto calculate Tax)|left|482|
+add_label_with_icon|small|`c/door `b(Enter door)|left|482|
+add_label_with_icon|small|`c/gid `b(Create Growid)|left|482|
+add_label_with_icon|small|`c/gscan `b(Visual Growscan [BETA])|left|482|
+add_label_with_icon|small|`c/admins `b(Shows admins and UIDs [BETA])|left|482|
+add_label_with_icon|small|`c/birth `b(Auto Change name)|left|482|
+add_label_with_icon|small|`c/encrypt `b(Encrypt Chat)|left|482|
+add_label_with_icon|small|`c/devmode `b(Gives far place + devmode - Need re-enter (Chance of autoban))|left|482|
+add_label_with_icon|small|`c/farp `b(Enables Far Punch - Need re-enter (Chance of autoban))|left|482|
+add_label_with_icon|small|`c/cd `b(Enables Custom Damage - Need re-enter)|left|482|
+add_label_with_icon|small|`c/cp `b(Enables Custom Punch - Need re-enter)|left|482|
+add_label_with_icon|small|`c/p `b(Sets punch data - Need re-enter)|left|482|
+add_label_with_icon|small|`c/d `b(Sets damage data - Need re-enter)|left|482|
+add_label_with_icon|small|`c/elua `b(Edit lua script)|left|482|
+add_label_with_icon|small|`c/lua `b(Run Lua Script (BETA))|left|482|
+add_label_with_icon|small|`c/desc `b(Bolwl Only)|left|482|
+add_label_with_icon|small|`c/give [itemid] [count] `b(Gives visual item)|left|482|
+add_label_with_icon|small|`c/vdrop [itemid] [count] `b(Drops visual item)|left|482|
+add_label_with_icon|small|`c/spawn [itemid] [count] `b(Spawns visual item)|left|482|
+add_label_with_icon|small|`c/wrench [netid] `b(Can be used for wrenching mods)|left|482|
+add_label_with_icon|small|`c/ply [count] `b(Enter player count for hosting)|left|482|
+add_label_with_icon|small|`c/pos `b(Set player position for hosting)|left|482|
+add_label_with_icon|small|`c/start `b(Starts the autohost [BETA])|left|482|
+add_label_with_icon|small|`c/win1 `b(Gives prize to player 1)|left|482|
+add_label_with_icon|small|`c/win2 `b(Gives prize to player 2)|left|482|
+add_label_with_icon|small|`c/win3 `b(Gives prize to player 3)|left|482|
+add_label_with_icon|small|`c/win4 `b(Gives prize to player 4)|left|482|
+add_label_with_icon|small|`c/fakeban `b(Fake suspended message)|left|482|
+add_label_with_icon|small|`c/country `b(Change country)|left|482|
+add_label_with_icon|small|`c/bebolwl `b(You become Bolwl)|left|482|
+add_label_with_icon|small|`c/hat [itemid] `b(Changes Hat)|left|482|
+add_label_with_icon|small|`c/shirt [itemid] `b(Changes Shirt)|left|482|
+add_label_with_icon|small|`c/pants [itemid] `b(Changes Pants)|left|482|
+add_label_with_icon|small|`c/shoe [itemid] `b(Changes Shoe)|left|482|
+add_label_with_icon|small|`c/face [itemid] `b(Changes Face)|left|482|
+add_label_with_icon|small|`c/hand [itemid] `b(Changes Hand)|left|482|
+add_label_with_icon|small|`c/wing [itemid] `b(Changes Wing)|left|482|
+add_label_with_icon|small|`c/mask [itemid] `b(Changes Mask)|left|482|
+add_label_with_icon|small|`c/neck [itemid] `b(Changes Neck)|left|482|
+add_label_with_icon|small|`c/ances [itemid] `b(Changes Ances)|left|482|
+add_label_with_icon|small|`c/unk1 [itemid] `b(Changes Unk1)|left|482|
+add_label_with_icon|small|`c/unk2 [itemid] `b(Changes Unk2)|left|482|
+add_label_with_icon|small|`c/clearset `b(Clear set)|left|482|
+add_label_with_icon|small|`c/saveset `b(Saves current set)|left|482|
+add_label_with_icon|small|`c/loadset `b(Loads saved set)|left|482|
+add_smalltext|I don't take any responsibilities for damages you can get (Auto-ban, shadow ban etc.) while using Bolwl Proxy. By using Bolwl Proxy you accept this rule.|left|
+add_spacer|small|
 end_dialog|gazette||OK|
